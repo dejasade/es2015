@@ -1,0 +1,5 @@
+const PI = 3.14
+var can be redeclared and let cannot. Let has a more strict scope than var does
+const cannot be reassigned or redeclared and it is scoped to blocks. Var is the opposite and scopes to the function
+let can be changed and reassigned whereas const cannot
+hoisting is when you are able to use a variable before it is declared or defined. Can be done with var, not let and const
